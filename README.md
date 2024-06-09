@@ -41,6 +41,10 @@ Go to the project directory:
   cd Address-API
 ```
 
+Add the .env file and write the following:
+
+    DB_NAME="addresses_db"
+
 Install dependencies:
 
 ```bash
